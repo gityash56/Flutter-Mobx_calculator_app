@@ -1,4 +1,4 @@
-# mobx_calculator_app
+# Mobx_calculator_app
 
 A new Flutter project.
 
